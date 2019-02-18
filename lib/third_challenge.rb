@@ -12,7 +12,7 @@ def third_challenge
         #your key/value pairs here
         },
       :hero => {
-        :name => "Lady Montague",
+        :name => "Romeo",
         :age => "54"
         #your key/value pairs here
         },
