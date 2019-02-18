@@ -30,7 +30,7 @@ def third_challenge
         #your key/value pairs here
         },
       :heroine => {
-        :name => "Lady Capulet",
+        :name => "Juliet",
         :age => "51 
         #your key/value pairs here
         },
